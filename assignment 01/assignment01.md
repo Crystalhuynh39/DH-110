@@ -28,7 +28,7 @@ Higher education and the academia aesthetic have been glamourized in today's dig
 
 ## Website 1: [Massachusetts Department of Higher Education](https://www.mass.edu/home.asp)
 
-insert photo
+![Massachusetts Department of Education site landing page](massachusettsdepartmentofhighereducation.JPG)
 
 ### About
 
@@ -42,17 +42,19 @@ There are a lot of great resources and information about higher education on the
 
 * Since the search bar is "enhanced by Google", as users type in a word, the possible options shown are their past Google searches rather than the website's most frequently searched terms. Users can see options that have no correlation to higher education, the Department, or Massachusetts which does not help the users when using this feature for more relevant topics. **(2)**
 
-insert photo
+![photo of the search button](search_bar.png)
 
 > Recommendation: Optimize search results so users can be guided to the most relevant and frequently searched information/resources on the site. The site could show the most searched terms before the users begin typing and then adjust/filter the possible options as the user types.
 
 * As the user navigates the site, there are some links that take a user to a totally different section of the site when they expect to stay in the same section as documented in the breadcrumb navigation feature. This may confuse users with where they are in the site. If the user misclicked, it is difficult to navigate back to where they were without using the browser's back button instead of using the breadcrumb feature. **(3)**
 
-insert photos
+(breadcrumbs1.JPG)
+(breadcrumbs2.JPG)
 
 versus
 
-insert photos
+(breadcrumbs3.JPG)
+(breadcrumbs4.JPG)
 
 > Recommendation: Even if there are multiple ways for a user to get to a certain page, have the breadcrumb navigation feature reflect the steps the user took to reach a page so they know where they are and how to get back to the previous page if needed.
 
@@ -61,19 +63,20 @@ insert photos
 
 * For the top navigation bar, each tab has a right facing arrow which when the user hovers over, a drop down with more options appears. With the opened tab, the arow changes to be down facing. The right facing arrow would usually indicate the direction more options would appear from, so it feels unnatural that with a right facing arrow, the options drop down instead of sliding out to the right which users would expect. **(1)**
 
-insert photos
+(nav_unopened.JPG)
+(nav_opened.png)
 
 > Recommendation: Have the arrows face downwards to indicate there are more options under that tab in a drop down. When the user hovers over the tab, have the arrows point upward as a visual indicator to "close" the drop down.
 
 * Another note about the tabs is that all the tabs have those arrows, but some of the tabs do not have a drop down with more options when the user hovers over it. An arrow indicates more options, and it is confusing for users to recognize what the arrow typically means in a navigation bar but not see what they would expect. **(1)**
 
-insert photos
+(strategicinitiativesnav.JPG)
 
 > Recommendation: Remove the arrows from the tabs that do not have a drop down with more options.
 
 * In terms of featured content, the site organizes content with featured content scattered around the page. The main indication that a piece of content is featured is with a red featured tag over the thumbnail image. Featured content is usually takes up more space and is placed at the top of the page or section to catch the user's attention and keep them engaged. **(1)**  
 
-insert photo
+(featured.JPG)
 
 > Recommendation: Place all featured content towards the top of the page or section for users to easily find and access.
 
@@ -82,7 +85,7 @@ insert photo
 
 * When using the search bar, the searched term is not saved in the search bar. If the user mistyped, they are not able to easily fix their typo because they would have to retype their search term. The search bar also collapses once the user searches their term, adding an extra step to fix their mistake if they made one. **(2)**
 
-insert photo
+(search_results.JPG)
 
 > Recommendation: Once the user presses enter to search their term, the site should keep their term in an open search bar. If the user made a typo, they can easily fix their mistake and research the term.
 
@@ -91,23 +94,26 @@ insert photo
 
 * Some of the tabs in the navigation bar take the user to what seems to be a completely different website. If that page is supposed to be a part of the main website, the different design is confusing to users. **(3)**
 
-insert photos
+(masstransfernav.JPG)
+(masstransferpage.JPG)
 
 versus
 
-insert photos
+(strategicinitiativesnav.JPG)
+(strategicinitiativespage.JPG)
 
 > Recommendations: Maintain consistency in the web page design so that each web page is visually linked to the main site. This will help users recognize that they are still exmploring the same site.
 
 * There are some pages where there is a hover animation applied to the content, indicating the content is clickable and will take the user to another page. Other pages on the site do not have this animation applied to their content. **(1)**
 
-insert photos
+(hover.png)
+(nohover.png)
 
 > Recommendation: Either choose to apply the hover animation on all the pages or not have the animation at all to keep the consistency across the site.
 
 * There is also an "Info and Tools For" section that when clicked, slides out to show more options next to the search icon. This looks like something that should be a part of the navigation bar as there is additional content linked. "Info and Tools For" is also a vague term that would not help users much when trying to navigate the contents of the site. **(2)**
 
-insert photo
+(infoandtoolsfor.JPG)
 
 > Recommendation: Move "Info and Tools For" to the navigation bar and rename the text so it is less vague.
 
@@ -116,7 +122,7 @@ insert photo
 
 * When using the filter feature for searching through initiatives, it is difficult for the user to see everything they selected since the scroll section does not show all the selection options at once. The user could have mistakenly selected an option or missed selecting an option, and they may not be aware of it as the scroll section shows six options at a time. **(2)**
 
-insert photo
+(filter.JPG)
 
 > Recommendation: Have the selected options appear at the top or bottom of the filter section like tags so the user can see what they selected in once place in case they accidentally clicked on an option they did not want.
 
