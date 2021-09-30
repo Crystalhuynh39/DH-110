@@ -76,7 +76,7 @@ versus
 
 * In terms of featured content, the site organizes content with featured content scattered around the page. The main indication that a piece of content is featured is with a red featured tag over the thumbnail image. Featured content is usually takes up more space and is placed at the top of the page or section to catch the user's attention and keep them engaged. **(1)**  
 
-1{featured](featured.JPG)
+1[featured](featured.JPG)
 
 > Recommendation: Place all featured content towards the top of the page or section for users to easily find and access.
 
