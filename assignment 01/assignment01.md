@@ -194,6 +194,7 @@ Massachusetts's Executive Office of Education works to create educational opport
 
 Although the EOE site is a part of the Massachusetts's government site, I want to ensure the design of this section is still functional and accessible to users. Can users navigate to the EOE section of the government site easily? In the EOE section, are they able to find the information they need? The design is relatively simple, but there are always improvements to be made.
 
+![EOE landing](EOE.JPG)
 
 ### Heuristic Evaluation
 
@@ -201,14 +202,14 @@ Although the EOE site is a part of the Massachusetts's government site, I want t
 
 * In the navigation bar of the EOE page, the user can find a service or task or learn more about a topic by hovering over "I want to...". However, when they click on a link in the drop down, it is difficult for users to recognize where they are in the site as there is no indication that they came from the EOE page. **(2)**
 
-![navbar]()
-![nav2]()
+![navbar](EOEnavbar.png)
+![nav2](EOEnav2.JPG)
 
 > Recommendation: Add either a back button option, breadcrumb feature, or some other sort of indication on the new page for the user to recognize where they came from and be able to go back to the previous page if needed.
 
 * For the "Recent News and Announcements" section, when a user tries to "See all news and announcements", they are not able to know what page of content they are on if they are searching for a particular article. There is no "articles 1-25" or sorting numbers at the bottom of the page that would indicate how large the database is and where the user is in the database of articles. **(3)**
 
-![article sort]()
+![article sort](articlesort.JPG)
 
 > Recommendation: Number all the articles and annoucements, add text that says something like "showing articles 1-25 out of 200", and add page sorting numbers at the bottom of the page as if this was a search page. This will help the user navigate their way through the archive of news and announcements.
 
@@ -217,21 +218,19 @@ Although the EOE site is a part of the Massachusetts's government site, I want t
 
 * In the Creating College & Career Pathways Guide, the table of contents feaature large arrow icons that some users would recognize as icons indicating a drop down rather than an icon taking the user to that section of the page. Even with the location of the icons in the table of contents, the user still might make the connection to a drop down first before realizing the icons are for a different purpose. **(1)**
 
-![table of contents]()
+![table of contents](tableofcontents.JPG)
 
 > Recommendation: Either remove the icons entirely or replace them with numeric vales to avoid any potential confusion or misunderstanding.
 
 * There is a feedback tab on the side of the page which users would recognize more as a tab than a button. With the way the button is positioned sideways, users may assume that once they click it, a form will slide out from the side. However, they would be suprised to see that the button is not a tab and once clicked, takes the user to the bottom of the page. The position and layout of this feedback button and the action it performs seems unnatural for most users. **(1)**
 
-![feedback]()
+![feedback](feedback.JPG)
 
 > Recommendation: To keep the consistency of the other pages that have a feedback section at the bottom of the page, the site should make the tab right side up and add an arrow pointing downwards to indicate that it will take the user to the bottom of the page.
 
 #### 3. User Control and Freedom
 
-* The page's navigation bar takes the user to certain sections of the page, but if the user misclicks, there is no "back to the top" button that will take them back to the navigation bar or the top of the page. Athough the navigaton bar does follow the user down, if they click the first tab, it does not take them to the top of the page, just the first section. There is still some scrolling needed to reach the top of the page from teh first section.  **(1)**
-
-![nav bar]()
+* The page's navigation bar takes the user to certain sections of the page, but if the user misclicks, there is no "back to the top" button that will take them back to the navigation bar or the top of the page. Athough the navigaton bar does follow the user down, if they click the first tab, it does not take them to the top of the page, just the first section. There is still some scrolling needed to reach the top of the page from the first section.  **(1)**
 
 > Recommendation: Add a "back to the top" or arrow icon in the bottom corner of the screen for users to easily access. This will not only prevent them from manually scrolling, but will also take them to the top of the page much faster than if they were manually scrolling.
 
@@ -240,7 +239,7 @@ Although the EOE site is a part of the Massachusetts's government site, I want t
 
 * There are some links on the EOE page that take the user to what looks like different websites due to the different colors and layout. There does not seem to be a connection between the two pages because of their different designs even though they are related. This would confuse the user because they would click on a link thinking it would be related to the site, only to be visually suprised and led to believe they were directed elsewhere when the page is under the same government site as the EOE page. **(2)**
 
-![stem]()
+![stem](stem.JPG)
 
 > Recommendation: Keep the layout and colors consistent across the site so users are able to recognize where they are and that the pages are related to one another.
 
@@ -251,7 +250,7 @@ Although the EOE site is a part of the Massachusetts's government site, I want t
 
 * Since many people rely on visual cues, thumbnails are a big way for users to recognize and differentiate content. The EOE site's "Recent News and Announcements" section uses the same photo for many of their press release entries, making it easy for users to click on the wrong article if they are not reading the title carefully and solely relying on the thumbnail. **(2)**
 
-![news thumbnails]()
+![news thumbnails](news.JPG)
 
 > Recommendation: Use different photos to help differentiate the articles featured on the site.
 
@@ -260,7 +259,7 @@ Although the EOE site is a part of the Massachusetts's government site, I want t
 
 * Although the search page does provide suggestions for the most popular searches, once the organization is entered in the filter, the popular searches should update to reflect the popular searches for that particular organization. Currently, even with the organization entered in, the popular searches listed have no correlation to the organization entered, which does not help the user. **(2)**
 
-![EOE searches]()
+![EOE searches](EOEsearch.JPG)
 
 > Reccommendation: Update the popular searches when an organization is entered into the filter to make the search process easier for the user if they are attempting to search up a popular topic that correlates to that organization.
 
@@ -269,15 +268,15 @@ Although the EOE site is a part of the Massachusetts's government site, I want t
 
 * There are two ways to use the search feature on the page, and what the site did well was hide one search bar behind a button or tab to prevent redundancy. **(0)**
 
-![search bars]()
+![search bars](EOEsearchbars.JPG)
 
 * In the "Featured Topics" section, users can press more for a certain topic and will be taken to another page. However, they will be taken to a page with similar categorized link boxes with even more links. Although this means the content is very organize, it is a bit tiring for users to keep clicking "More" to read more. Normally, content organization has users click "more" just once and they will be taken to a page with all the information they need to know.The fact that the user has to keep navigating their way to the information they want shows that this is not the most efficient way of organizing EOE's content. **(3)**
 
-![featured part 1]()
+![featured part 1](EOEfeatured1.JPG)
 
 clicking more here will take you to:
 
-![featured part 2]()
+![featured part 2](EOEfeatured2.JPG)
 
 > Recommendation: Once a user clicks "more" have the page they are navigated to contain all the neccessary information they need or want to see. 
 
@@ -290,20 +289,20 @@ clicking more here will take you to:
 
 * For the search feature, if the user makes a typo, the site does a good job of letting the user know there were no matching results, and on giving next steps to take. **(0)**
 
-![search typo fix]()
+![search typo fix](EOEtypo.JPG)
 
 
 #### 10. Help and Documentation
 
 * The site does have a feedback section on nearly every page for users to access if they wish to submit anything. **(0)**
 
-![feedback section]()
+![feedback section](feedbacksection.JPG)
 
 * The emails of the key contacts at EOE are linked to each person's name which helps prevents users from manually miscopying or mistyping. **(0)** 
 
 * Although there are thumbnails in the "News and Announcments" section, when a user clicks on "See all news and announcments", there are no visual aids to the articles on the page they are taken to. This makes it more difficult for the user to recognize and find an article they need. **(2)**
 
-![no article images]()
+![no article images](noarticlepics.JPG)
 
 > Recommendation: Use the same images on the main page for the "see all" page so the articles are more easily recognizable to users. For the rest of the articles that are not featured on the main page, they should still have a thumbnail or other visual aid for the user as they scroll through the "see all" page.
 
