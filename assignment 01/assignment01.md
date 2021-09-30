@@ -1,7 +1,7 @@
 # Government Support for Accessibility to Higher Education Among Underrepresented Groups in Massachusetts
 ## Assignment 01 Heuristic Evaluation | Crystal Huynh, DH 110 F2021 
 
-#### Summary: 
+### Summary: 
 
 Higher education and the academia aesthetic have been glamourized in today's digital age with people posting on Youtube and TikTok about their college experiences at world renowned institutions or Hogwarts-like lifetsyle, but a major issue that is currently being tackled in this realm is the exclusivity of higher education. In both reality and the portrayal of higher education in media, higher education is dominated by white males, especially at institutions like the Ivy Leagues. With this project, I want to explore what is being done at the government level to support the diversity and inclusion of underrepresented groups, focusing specifically on Massachusetts, home to the most well known Ivy League, Harvard University. How is affirmative action being implemented and is it truly helping marginalized groups? How are all schools in the New England state, not just the prestigious Harvard, pledging to make higher aducation more accessible to all? These are just some of the questions I hope to explore and answer in this project.
 
@@ -26,8 +26,122 @@ Higher education and the academia aesthetic have been glamourized in today's dig
 |2|Minor usability problem: fixing this should be given low priority|
 |3|Major usability problem: important to fix, so should be given high priority|
 
-## Website 1: 
+## Website 1: [Massachusetts Department of Higher Education](https://www.mass.edu/home.asp)
 
-https://www.mass.gov/
+### About
 
-![This is a screenshot of the landing page of Massachusetts's state government site](massachusetts.JPG)
+blah blah blah insert text
+
+
+### Heuristic Evaluation
+
+#### 1. Visibility of System Status
+
+* point 1
+
+
+#### 2. Match Between System and the Real World
+
+* point 1
+
+
+#### 3. User Control and Freedom
+
+* point 1
+
+
+#### 4. Consistency and Standards
+
+* point 1
+
+
+#### 5. Error Prevention
+
+* point 1
+
+
+#### 6. Recognition Rather Than Recall
+
+* point 1
+
+
+#### 7. Flexibility and Efficiency of Use
+
+* point 1
+
+
+#### 8. Aesthetic and Minimalist Design
+
+* point 1
+
+
+#### 9. Help Users Recognize, Diagnose, and Recover From Errors
+
+* point 1
+
+
+#### 10. Help and Documentation
+
+* point 1
+
+
+### Overall Assessment
+
+
+## Website 2: [Massachusetts Coalition for Adult Education](https://mcae.net/)
+
+### About
+
+blah blah blah insert text
+
+
+### Heuristic Evaluation
+
+#### 1. Visibility of System Status
+
+* point 1
+
+
+#### 2. Match Between System and the Real World
+
+* point 1
+
+
+#### 3. User Control and Freedom
+
+* point 1
+
+
+#### 4. Consistency and Standards
+
+* point 1
+
+
+#### 5. Error Prevention
+
+* point 1
+
+
+#### 6. Recognition Rather Than Recall
+
+* point 1
+
+
+#### 7. Flexibility and Efficiency of Use
+
+* point 1
+
+
+#### 8. Aesthetic and Minimalist Design
+
+* point 1
+
+
+#### 9. Help Users Recognize, Diagnose, and Recover From Errors
+
+* point 1
+
+
+#### 10. Help and Documentation
+
+* point 1
