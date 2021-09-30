@@ -173,7 +173,6 @@ versus
 #### 10. Help and Documentation
 
 * If the user wishes to contact a staff member, they must use the Staff Directory page. Although there is a filter feature, all of the staff members' contact information is not organized into sections/categories and instead placed in an overwhelming long list in alphabetical order by last name as the default. **(1)**
-insert photo
 
 ![staff](staff.JPG)
 
