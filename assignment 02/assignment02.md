@@ -24,9 +24,9 @@ I will conduct the test in a quiet room, recording the pilot test on Zoom with m
 
 
 ## Links
-[link text here](link here)
+[UT Survey](https://forms.gle/dxLGRDRDNavC6SUBA)
 
-[link text here](link here)
+[Pilot UT Video](link here)
 
 
 ## Reflection
