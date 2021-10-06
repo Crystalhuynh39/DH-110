@@ -16,8 +16,8 @@ In order to improve the site from the user's perspectives,  I will conduct a usa
 
 Heuristic Being Tested|Task Scenario
 |---|---|
-|Visibility of System Status|Use the navigation bar to search for the student advisory council page and then navigate back to the home page|
-|Error Prevention|Search for an initiatve by filtering with multiple criteria|
+|Visibility of System Status|Navigate the site between different web pages with the breadcrumb feature as a guide|
+|Error Prevention|Search for an initiative by filtering with multiple criteria|
 |Flexibility and Efficiency of Use|Find a list of upcoming meetings and events using the navigation bar|
 
 I will conduct the test in a quiet room, recording the pilot test on Zoom with my MacBook. The user and I will be on call throughout this process. I'll start with an introduction of the pilot test and then ask for their informed consent before continuing. The user will answer some background questions about the website and then move on to the pre-test questions to give their first thougths and impressions before performing the task scenarios. I will have the user perform tasks 1 through 3 and observe how the website affect's their ability to efficiently and effectively complete them. The user will then answer the post-test questions to measure their experience when completing the tasks. The test will end with demographics questions about the user which will be kept confidential and anonymous.
